@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hussnain 804 - All Services Available</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Hussnain 804</h1>
+        <p>All Services Available</p>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section class="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>📢 Facebook Ads</li>
+            <li>🛒 Facebook Marketplace Ads</li>
+            <li>📄 Craigslist Ads</li>
+            <li>🎨 Graphic Design</li>
+            <li>📱 Social Media Posting</li>
+            <li>📈 Views & Reach Boosting</li>
+            <li>🎬 Video Editing</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Hussnain 804. All rights reserved.</p>
+    </footer>
+</body>
+</html>
